@@ -127,7 +127,6 @@ Contributions, issues, and feature requests are welcome!
 
 **Abaidur-E-Rehman**  
 
-```
 
 ---
 
